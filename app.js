@@ -65,5 +65,5 @@ app.post("/", async (req, res) => {
 })
 
 app.listen(2000, () => {
-  console.log("Listening on port no 1000");
+  console.log("Listening on port no 2000");
 });
