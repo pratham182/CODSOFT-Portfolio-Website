@@ -14,6 +14,8 @@
     height:100vh;
     overflow-x: hidden;
     overflow-y: auto;
+    background-color: darkkhaki;
+  
 }
 .container{
     width: 1200px;
@@ -110,6 +112,9 @@ a{
     flex-direction: column;
     justify-content: center;
     gap: 2rem;
+    align-items: flex-end;
+    font-size: 35px;
+    text-align: right;
 }
 .HeroHeading{
     font-size: 35px;
